@@ -36,4 +36,6 @@
 
 #define USES_GPIOA 1
 
+#define DOUBLE_TAP
+
 #endif
