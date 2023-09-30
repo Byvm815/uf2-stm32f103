@@ -1,4 +1,4 @@
-#define PRODUCT_NAME "STM32 Board"
+#define PRODUCT_NAME "USB Flash"
 #define BOARD_ID "STM32F103-generic-v0"
 #define INDEX_URL "https://maker.makecode.com"
 #define UF2_NUM_BLOCKS 8000
