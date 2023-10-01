@@ -29,6 +29,8 @@
 #include "config.h"
 #include "backup.h"
 
+#define DOUBLE_TAP
+
 #ifndef USES_GPIOA
 #if (HAVE_USB_PULLUP_CONTROL == 0)
 #define USES_GPIOA 1
