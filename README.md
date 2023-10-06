@@ -22,7 +22,7 @@ To build other targets, you can override the
 `TARGET` variable when invoking `make`.
 
     make clean
-    make TARGET=STLINK
+    make TARGET=STM32F103
 
 ### Targets
 
